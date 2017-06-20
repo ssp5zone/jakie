@@ -29,10 +29,11 @@ For the first download/clone of this repo,
 
 To directly use it.
 
-1. Click runner.bat from compiled folder. This will start the app in background (You can check this under processes in TaskManager).
-2. Type anything, anywhere.
-3. To stop the app. Press `F9` key.
-4. Check the locally created serverLogs.txt for all the logged keystrokes.
+1. Download the latest binary from the release and unzip the contents.
+2. Click `runner.bat` from compiled folder. This will start the app in background (You can check this under processes in TaskManager).
+3. Type anything, anywhere.
+4. To stop the app. Press `F9` key.
+5. Check the locally created **serverLogs.txt** for all the logged keystrokes.
 
 ### Future Work
 
